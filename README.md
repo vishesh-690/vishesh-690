@@ -13,6 +13,8 @@
 - 💬 Ask me about **I'm a data scientist with a passion for transforming raw data into meaningful insights and elegant visual stories. With strong foundations in Python, SQL, and Power BI, I specialize in building end-to-end analytics solutions—especially in automotive domains like Toyota service and inventory. My work blends technical precision with creative clarity, whether I'm designing intuitive dashboards, optimizing DAX formulas, or crafting modular code for scalable analysis.**
 
 - 📫 How to reach me **tyagivishesh696@gmail.com**
+- https://x.com/visesh4u_
+- https://www.instagram.com/visesh4u_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
